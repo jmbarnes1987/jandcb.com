@@ -2,9 +2,9 @@ JandCB.com - Jacob and Christianne Barnes
 
 Various websites/blogs/etc
 
-Main - jandcb.com
-Christianne's Corner - christiannescorner.jandcb.com
-More coming soon!!!
+* Main - jandcb.com
+* Christianne's Corner - christiannescorner.jandcb.com
+* Jacob Barnes - jacobbarnes.jandcb.com
+* Dad-a-base - dadabase.jandcb.com
 
-Special Thanks
-https://startbootstrap.com/template-overviews/clean-blog/
+More coming soon...
