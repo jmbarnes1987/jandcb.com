@@ -26,8 +26,9 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: minima
-gems:
+# theme: minima
+theme: jekyll-athena
+plugins:
   - jekyll-feed
 
 # Exclude from processing.
