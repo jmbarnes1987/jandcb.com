@@ -28,7 +28,7 @@ github_username:  jekyll
 markdown: kramdown
 # theme: minima
 theme: jekyll-athena
-gems:
+plugins:
   - jekyll-feed
 
 # Exclude from processing.
