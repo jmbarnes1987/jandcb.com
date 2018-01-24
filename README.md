@@ -9,5 +9,10 @@ Jacob and Christianne Barnes
 * Dad-a-base - dadabase.jandcb.com
 
 ## Technology Stack
+* Utilities:
+  * Jekyll
+* Business Tools:
+  * Trello
+  * Slack
 
 More coming soon...
