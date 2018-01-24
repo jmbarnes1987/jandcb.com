@@ -9,10 +9,14 @@ Jacob and Christianne Barnes
 * Dad-a-base - dadabase.jandcb.com
 
 ## Technology Stack
+* Application/Data:
+  * Amazon S3 - Cloud Storage
 * Utilities:
-  * Jekyll
+  * Amazon Route 53 - DNS Management
+  * Amazon Cloud Front - CDN
+  * Jekyll - Static Site Generator
 * Business Tools:
-  * Trello
-  * Slack
+  * Trello - Project Management
+  * Slack - Chat/Notifications
 
 More coming soon...
