@@ -15,8 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Christianne's Corner
 email: cbarnes042993@gmail.com
-description: > # A blog about a child raising, husband wrangling, 
-beautiful mother and her attempts to save the world with scrapebooking!
+description: > # 
+    A blog about a child raising, husband wrangling, 
+    beautiful mother and her attempts to save the world with scrapebooking!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://christiannescorner.jandcb.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
