@@ -4,7 +4,14 @@ title:  "Welcome to Jekyll!"
 date:   2017-10-08 12:02:45 -0500
 categories: jekyll update
 ---
+[//]: # Hopefully this is a comment. Yep, this works.
+[//]: # Testing images. I need to figure out Liquid syntax. For instance, post.image / post.img do not pass in the path so the image doesn't render.'
+[//]: # REFACTOR: I'd like this image on the header behind the post title, not in the post body
+<img src="/assets/img/home-bg.jpg" alt="{{ post.title }}" title="{{ post.title }}">
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 

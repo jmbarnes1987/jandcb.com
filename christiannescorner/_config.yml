@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Christianne's Corner
 email: cbarnes042993@gmail.com
-description: > # 
+description: >-
     A blog about a child raising, husband wrangling, 
     beautiful mother and her attempts to save the world with scrapebooking!
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -41,3 +41,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
