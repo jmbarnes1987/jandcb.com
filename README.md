@@ -7,10 +7,11 @@ Jacob and Christianne Barnes
 * Christianne's Corner - christiannescorner.jandcb.com
 * Jacob Barnes - jacobbarnes.jandcb.com
 * Dad-a-base - dadabase.jandcb.com
+* More coming soon...
 
 ## Technology Stack
 * Application/Data:
-  * Amazon S3 - Cloud Storage
+  * Amazon S3 - Cloud Storage/Static Website Hosting
 * Utilities:
   * Amazon Route 53 - DNS Management
   * Amazon Cloud Front - CDN
@@ -18,5 +19,3 @@ Jacob and Christianne Barnes
 * Business Tools:
   * Trello - Project Management
   * Slack - Chat/Notifications
-
-More coming soon...
