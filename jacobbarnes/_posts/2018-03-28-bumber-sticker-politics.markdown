@@ -26,10 +26,6 @@ Seriously, without making assumptions about the individual, e.g. is he/she liber
 * "Liberalism is the problem, not the solution."
 * Etc...
 
-[comment]: # (One might say, "the subject is government, don't change the subject." Ok, let's play that game too by adding a qualifier via the following syntax: "Government is the problem with ____, not the solution"
-"Government is the problem with individual freedom, not the solution."
-That statement is incredibly ambiguous. Are we talking about the individual freedom to marry a member of the same sex, or to have your religious beliefs on marriage upheld in the face of same sex marriage? Is it that government is the problem with the individual's freedom to engage in a particular rhetoric, or being protected from it?)
-
 You get the point, I hope. 
 
 ## We live in a Democratic Republic, how can government be the problem? 
