@@ -24,7 +24,7 @@ Reader, you probably shouldn't. But hell, who knows, maybe one day I'll gain som
 
 Whoa, calm down. This blog costs almost nothing to host on AWS as a static website. It's not that I don't want your money, I do, but I don't want to start expecting a revenue stream from my blog. I assume you're a recruiter for The New York Times, or some shit, and desperately crave my "je ne sais quoi" allez savoir pourquoi. And no, I don't speak French, I know how to use Google, which is obviously a better skill. Feel free to get in touch regarding any writing opportunities or for any reason except trying to sell me shit:
 
-Email: [jmbarnes1987@gmail.com](emailto:jmbarnes1987@gmail.com)
+Email: jmbarnes1987@gmail.com
 
 Phone: (316) 727-9528
 
