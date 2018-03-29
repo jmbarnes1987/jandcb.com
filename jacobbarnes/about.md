@@ -19,3 +19,12 @@ Ok, this time it is self referencing, but I'm not just going to give you the ans
 ## Why bother?
 
 Reader, you probably shouldn't. But hell, who knows, maybe one day I'll gain some sort of celebrity and maybe you're the type of person who posts, "FIRST," as a reply, or perhaps, you're the "I did X before it was cool," type. I mean, I would claim it's because of the high quality content and the desire to facilitate meaningful dialogues, but I've already revealed my sisnter plan to drain society of valuable resources.
+
+## Shutup and take my money!
+
+Whoa, calm down. This blog costs almost nothing to host on AWS as a static website. It's not that I don't want your money, I do, but I don't want to start expecting a revenue stream from my blog. I assume you're a recruiter for The New York Times, or some shit, and desperately crave my "je ne sais quoi" allez savoir pourquoi. And no, I don't speak French, I know how to use Google, which is obviously a better skill. Feel free to get in touch regarding any writing opportunities or for any reason except trying to sell me shit:
+
+Email: jmbarnes1987@gmail.com
+Phone: (911) 911-9528 (don't you dare be this stupid, I get enough robo calls as it is)
+
+
