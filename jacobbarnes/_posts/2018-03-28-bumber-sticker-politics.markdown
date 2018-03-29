@@ -34,7 +34,7 @@ Long story short, it can't. At least insofar as you accept democracy to be the b
 
 > "Many forms of Government have been tried and will be tried in this world of sin and woe. No one pretends that democracy is perfect or all-wise. Indeed, it has been said that democracy is the worst form of government except all those other forms that have been tried from time to time." - [Churchill](http://hansard.millbanksystems.com/commons/1947/nov/11/parliament-bill#column_206),  _Speech in the House of Commons (11 November 1947)_
 
-Maybe you don't, maybe you're into monarchies, or oligarchies, or perhaps pure democracies? Regardless, that statement is still meaningless, e.g. unless you're advocating for anarchy, you'll be the propping up one form of government or the other. Government is not the problem, it's a tool that facilitates the solution. The irony here is demonstrated by another instance of "bumper sticker politics", "Guns don't kill people, people do," or, in other words, it's not the tool, it's the wielder. 
+Maybe you don't, maybe you're into monarchies, or oligarchies, or perhaps pure democracies? Regardless, that statement is still meaningless, e.g. unless you're advocating for anarchy, you'll be the propping up one form of government or the other. Government is not the problem, it's a tool that facilitates a solution. 
 
 > "Once wide coercive powers are given to governmental agencies for particular purposes, such powers cannot be effectively controlled by democratic assemblies." - [Hayek](https://en.wikipedia.org/wiki/The_Constitution_of_Liberty), _The Constitution of Liberty_
 
