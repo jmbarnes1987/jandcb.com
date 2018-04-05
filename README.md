@@ -4,10 +4,15 @@ Jacob and Christianne Barnes
 ## Various websites/blogs/etc 
 
 * Main - jandcb.com
+  The landing page for all the child sites.
 * Christianne's Corner - christiannescorner.jandcb.com
+  My wife's blog.
 * Jacob Barnes - jacobbarnes.jandcb.com
+  My blog.
 * Dad-a-base - dadabase.jandcb.com
+  A parenting blog.
 * Habanero - habanero.jandcb.com
+  A blog on the best salsa I've come across.
 * More coming soon...
 
 ## Technology Stack
