@@ -7,6 +7,7 @@ Jacob and Christianne Barnes
 * Christianne's Corner - christiannescorner.jandcb.com
 * Jacob Barnes - jacobbarnes.jandcb.com
 * Dad-a-base - dadabase.jandcb.com
+* Habanero - habanero.jandcb.com
 * More coming soon...
 
 ## Technology Stack
