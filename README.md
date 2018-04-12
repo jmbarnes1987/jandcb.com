@@ -23,6 +23,10 @@ Jacob and Christianne Barnes
 
   A blog on the best salsa I've come across.
   
+* Margaritas - margaritas.jandcb.com
+
+  You guessed it, a blog on the best margiritas.
+
 * More coming soon...
 
 ## Technology Stack
