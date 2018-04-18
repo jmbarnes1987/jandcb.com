@@ -2,7 +2,7 @@
 layout: post
 title:  "On Fears and Firsts"
 date:   2018-01-19 21:20:58 -0700
-categories: jekyll update
+categories: parenting
 ---
 Last night, my wife and I had one of the worst nights of sleep since our son was an biological alarm clock with a repeating two hour snooze. He is 15 months old and last night, for the first time, he slept through the entire night, self soothed, and had to be woken up in the morning. Wonderful, right? Yes, definitely, but it was also the worst night of sleep we've had in a year.
 
