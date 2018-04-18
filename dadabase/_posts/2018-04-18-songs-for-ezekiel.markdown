@@ -2,7 +2,7 @@
 layout: post
 title:  "Songs for Ezekiel"
 date:   2018-04-18 10:11:00 -0700
-categories: childrensstories
+categories: stories
 ---
 Once there was a little boy named Ezekiel.
 
