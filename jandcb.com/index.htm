@@ -20,10 +20,8 @@
     <!-- Custom styles for this template -->
     <link href="css/landing-page.css" rel="stylesheet">
 
-    <!-- Testing Slick for Header Images-->
-    <!-- Add the slick-theme.css if you want default styling -->
+    <!-- Slick Carousel-->
     <link rel="stylesheet" type="text/css" href="css/slick.css"/>
-    <!-- Add the slick-theme.css if you want default styling -->
     <link rel="stylesheet" type="text/css" href="css/slick-theme.css"/>
 </head>
 
@@ -64,27 +62,29 @@
             </div>
         </div>
     </header> -->
-<header class="intro-header">
-    <div class="container">
-        <div class="autoplay">
-            <div class="intro-message" style="background-image: url(img/intro-bg.jpg); background-size: cover;">
-                <h1>JandCB.com</h1>
-                <h3>Jacob and Christianne Barnes</h3>
-                <hr class="intro-divider">
-            </div>
-            <div class="intro-message" style="background-image: url(img/index_momandson.jpg); background-size: cover;">
-                <h1>JandCB.com</h1>
-                <h3>Jacob and Christianne Barnes</h3>
-                <hr class="intro-divider">
-            </div>
-            <div class="intro-message" style="background-image: url(img/index_portfolio.jpg); background-size: cover;">
-                <h1>JandCB.com</h1>
-                <h3>Jacob and Christianne Barnes</h3>
-                <hr class="intro-divider">
+    <header class="intro-header">
+        <div class="container">
+            <div class="autoplay">
+                <!-- Not sure how, yet, but I think I can use the Ruby stuff I use for the Jekyll pages to parameterize the following and make reusuable code blocks -->
+                <div class="intro-message" style="background-image: url(img/intro-bg.jpg); background-size: cover;">
+                    <h1>JandCB.com</h1>
+                    <h3>Jacob and Christianne Barnes</h3>
+                    <hr class="intro-divider">
+                </div>
+                <div class="intro-message" style="background-image: url(img/index_momandson.jpg); background-size: cover;">
+                    <h1>JandCB.com</h1>
+                    <h3>Jacob and Christianne Barnes</h3>
+                    <hr class="intro-divider">
+                </div>
+                <div class="intro-message" style="background-image: url(img/index_portfolio.jpg); background-size: cover;">
+                    <h1>JandCB.com</h1>
+                    <h3>Jacob and Christianne Barnes</h3>
+                    <hr class="intro-divider">
+                </div>
             </div>
         </div>
-    </div>
-</header>
+    </header>
+
     <section id="websites" class="content-section-a">
 
         <div class="container">
@@ -228,7 +228,7 @@
     <script src="vendor/popper/popper.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
 
-    <!-- Slick-->
+    <!-- Slick Carousel-->
     <script type="text/javascript" src="vendor/javascript/slick.min.js"></script>
     <script>
         $(document).ready(function(){
