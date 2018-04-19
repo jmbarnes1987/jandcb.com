@@ -20,6 +20,11 @@
     <!-- Custom styles for this template -->
     <link href="css/landing-page.css" rel="stylesheet">
 
+    <!-- Testing Slick for Header Images-->
+    <!-- Add the slick-theme.css if you want default styling -->
+    <link rel="stylesheet" type="text/css" href="css/slick.css"/>
+    <!-- Add the slick-theme.css if you want default styling -->
+    <link rel="stylesheet" type="text/css" href="css/slick-theme.css"/>
 </head>
 
 <body>
@@ -50,64 +55,36 @@
         </div>
     </nav>
 
-    <header class="intro-header">
+    <!-- <header class="intro-header">
         <div class="container">
             <div class="intro-message">
                 <h1>JandCB.com</h1>
                 <h3>Jacob and Christianne Barnes</h3>
                 <hr class="intro-divider">
-                <!--<ul class="list-inline intro-social-buttons">
-                  <li class="list-inline-item">
-                    <a href="#" class="btn btn-secondary btn-lg">
-                      <i class="fa fa-stack-overflow fa-fw"></i>
-                      <span class="network-name">StackOverflow</span>
-                    </a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#" class="btn btn-secondary btn-lg">
-                      <i class="fa fa-github fa-fw"></i>
-                      <span class="network-name">Github</span>
-                    </a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#" class="btn btn-secondary btn-lg">
-                      <i class="fa fa-linkedin fa-fw"></i>
-                      <span class="network-name">Linkedin</span>
-                    </a>
-                  </li>
-                </ul>-->
             </div>
         </div>
-    </header>
-
-    <!--<div id="about">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 ml-auto">-->
-    <!--<aside class="content-section-a">-->
-    <!-- Page Content -->
-    <!--<section>-->
-    <!--id="about"-->
-    <!--class="content-section-a">-->
-    <!--<div class="container">
-        <div id="warning" class="row">
-            <div class="col-lg-4 my-auto">
-                <h2>Under Development:</h2>
+    </header> -->
+<header class="intro-header">
+    <div class="container">
+        <div class="autoplay">
+            <div class="intro-message" style="background-image: url(img/intro-bg.jpg); background-size: cover;">
+                <h1>JandCB.com</h1>
+                <h3>Jacob and Christianne Barnes</h3>
+                <hr class="intro-divider">
             </div>
-            <div class="col-lg-8 my-auto">
-                <p>The presentation and functionality of this website and its subdomains may change radically without warning.</p>
+            <div class="intro-message" style="background-image: url(img/index_momandson.jpg); background-size: cover;">
+                <h1>JandCB.com</h1>
+                <h3>Jacob and Christianne Barnes</h3>
+                <hr class="intro-divider">
             </div>
-        </div>
-    </div>-->
-    <!-- /.container -->
-    <!--</section>-->
-    <!--<hr class="section-heading-spacer">-->
-    <!--<p><b>Hello</b>, welcome to the Barnes family web portal! Here you'll find all our projects and passions</p>-->
-    <!--</aside>-->
-    <!--</div>
+            <div class="intro-message" style="background-image: url(img/index_portfolio.jpg); background-size: cover;">
+                <h1>JandCB.com</h1>
+                <h3>Jacob and Christianne Barnes</h3>
+                <hr class="intro-divider">
             </div>
         </div>
-    </div>-->
+    </div>
+</header>
     <section id="websites" class="content-section-a">
 
         <div class="container">
@@ -187,12 +164,6 @@
                 </div>
                 <div class="col-lg-8 my-auto">
                     <ul class="list-inline banner-social-buttons">
-                        <!--<li class="list-inline-item">
-                            <a href="#" class="btn btn-secondary btn-lg">
-                                <i class="fa fa-twitter fa-fw"></i>
-                                <span class="network-name">Jacob's Twitter</span>
-                            </a>
-                        </li>-->
                         <li class="list-inline-item">
                             <a href="https://github.com/jmbarnes1987" class="btn btn-secondary btn-lg">
                                 <i class="fa fa-github fa-fw"></i>
@@ -200,7 +171,7 @@
                             </a>
                         </li>
                         <li class="list-inline-item">
-                            <a href="#" class="btn btn-secondary btn-lg">
+                            <a href="https://www.linkedin.com/in/jacob-barnes-45854a96" class="btn btn-secondary btn-lg">
                                 <i class="fa fa-linkedin fa-fw"></i>
                                 <span class="network-name">Jacob's Linkedin</span>
                             </a>
@@ -214,24 +185,12 @@
                 </div>
                 <div class="col-lg-8 my-auto">
                     <ul class="list-inline banner-social-buttons">
-                        <!--<li class="list-inline-item">
-                            <a href="#" class="btn btn-secondary btn-lg">
-                                <i class="fa fa-facebook fa-fw"></i>
-                                <span class="network-name">Christianne's Facebook</span>
-                            </a>
-                        </li>-->
                         <li class="list-inline-item">
                             <a href="#" class="btn btn-secondary btn-lg">
                                 <i class="fa fa-pinterest fa-fw"></i>
                                 <span class="network-name">Christianne's Pintrest</span>
                             </a>
                         </li>
-                        <!--<li class="list-inline-item">
-                            <a href="#" class="btn btn-secondary btn-lg">
-                                <i class="fa fa-linkedin fa-fw"></i>
-                                <span class="network-name">Christianne's Linkedin</span>
-                            </a>
-                        </li>-->
                     </ul>
                 </div>
             </div>
@@ -269,6 +228,70 @@
     <script src="vendor/popper/popper.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
 
-</body>
+    <!-- Slick-->
+    <script type="text/javascript" src="vendor/javascript/slick.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $('.autoplay').slick({
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                autoplay: true,
+                autoplaySpeed: 3000
+            });
+        });
+    </script>
+    </body>
 
 </html>
+
+
+
+    <!--<ul class="list-inline intro-social-buttons">
+    <li class="list-inline-item">
+    <a href="#" class="btn btn-secondary btn-lg">
+        <i class="fa fa-stack-overflow fa-fw"></i>
+        <span class="network-name">StackOverflow</span>
+    </a>
+    </li>
+    <li class="list-inline-item">
+    <a href="#" class="btn btn-secondary btn-lg">
+        <i class="fa fa-github fa-fw"></i>
+        <span class="network-name">Github</span>
+    </a>
+    </li>
+    <li class="list-inline-item">
+    <a href="#" class="btn btn-secondary btn-lg">
+        <i class="fa fa-linkedin fa-fw"></i>
+        <span class="network-name">Linkedin</span>
+    </a>
+    </li>
+</ul>-->
+
+    <!--<div id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 ml-auto">-->
+    <!--<aside class="content-section-a">-->
+    <!-- Page Content -->
+    <!--<section>-->
+    <!--id="about"-->
+    <!--class="content-section-a">-->
+    <!--<div class="container">
+        <div id="warning" class="row">
+            <div class="col-lg-4 my-auto">
+                <h2>Under Development:</h2>
+            </div>
+            <div class="col-lg-8 my-auto">
+                <p>The presentation and functionality of this website and its subdomains may change radically without warning.</p>
+            </div>
+        </div>
+    </div>-->
+    <!-- /.container -->
+    <!--</section>-->
+    <!--<hr class="section-heading-spacer">-->
+    <!--<p><b>Hello</b>, welcome to the Barnes family web portal! Here you'll find all our projects and passions</p>-->
+    <!--</aside>-->
+    <!--</div>
+            </div>
+        </div>
+    </div>-->
