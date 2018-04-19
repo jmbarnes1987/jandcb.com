@@ -39,6 +39,7 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#">Home</a>
                     </li>
+                    <!-- If I add an about page for jandcb.com, it will be separate from the landing page -->
                     <!--<li class="nav-item">
                         <a class="nav-link" href="#about">About</a>
                     </li>-->
@@ -53,20 +54,11 @@
         </div>
     </nav>
 
-    <!-- <header class="intro-header">
-        <div class="container">
-            <div class="intro-message">
-                <h1>JandCB.com</h1>
-                <h3>Jacob and Christianne Barnes</h3>
-                <hr class="intro-divider">
-            </div>
-        </div>
-    </header> -->
     <header class="intro-header">
-        <!-- If I comment out "container" div then I get the full page carousel, but the height is too large. Need to refactor accordingly -->
+        <!--REFACTOR: If I comment out "container" div then I get the full page carousel, but the height is too large. Need to refactor accordingly -->
         <div class="container">
             <div class="autoplay">
-                <!-- Not sure how, yet, but I think I can use the Ruby stuff I use for the Jekyll pages to parameterize the following and make reusuable code blocks -->
+                <!--REFACTOR: Not sure how, yet, but I think I can use the Ruby stuff I use for the Jekyll pages to parameterize the following and make reusuable code blocks -->
                 <div class="intro-message" style="background-image: url(img/intro-bg.jpg); background-size: cover;">
                     <h1>JandCB.com</h1>
                     <h3>Jacob and Christianne Barnes</h3>
@@ -117,7 +109,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-5 ml-auto">
-                    <!--This is probably why the img-rounded isn't working...custom landingpage.css section-header-->
+                    <!--REFACTOR: This is probably why the img-rounded isn't working...custom landingpage.css section-header-->
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <a href="http://jacobbarnes.jandcb.com">
@@ -207,10 +199,10 @@
                 <li class="list-inline-item">
                     <a href="#">Home</a>
                 </li>
-                <li class="footer-menu-divider list-inline-item">&sdot;</li>
+                <!-- <li class="footer-menu-divider list-inline-item">&sdot;</li>
                 <li class="list-inline-item">
                     <a href="#about">About</a>
-                </li>
+                </li> -->
                 <li class="footer-menu-divider list-inline-item">&sdot;</li>
                 <li class="list-inline-item">
                     <a href="#websites">Websites</a>
@@ -245,8 +237,15 @@
 
 </html>
 
-
-
+    <!-- <header class="intro-header">
+        <div class="container">
+            <div class="intro-message">
+                <h1>JandCB.com</h1>
+                <h3>Jacob and Christianne Barnes</h3>
+                <hr class="intro-divider">
+            </div>
+        </div>
+    </header> -->
     <!--<ul class="list-inline intro-social-buttons">
     <li class="list-inline-item">
     <a href="#" class="btn btn-secondary btn-lg">
