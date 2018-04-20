@@ -4,6 +4,8 @@ title:  "Songs for Ezekiel"
 date:   2018-04-18 09:11:00 -0700
 categories: childrensstories
 ---
+Originally posted on: [Dad-a-base](http://dadabase.jandcb.com).
+
 Once there was a little boy named Ezekiel.
 
 Before Ezekiel was born, his parents planted a tree deep in the big forest next to town to celebrate their marriage.
