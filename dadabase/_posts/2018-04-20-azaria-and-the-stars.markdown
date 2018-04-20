@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Azaria and the Stars"
-date:   2018-04-20 10:32:00 -0700
+date:   2018-04-20 08:32:00 -0700
 categories: childrensstories
 ---
 Before our planet formed, before our sun was born, there in the infinite darkness of space, lived Azaria.

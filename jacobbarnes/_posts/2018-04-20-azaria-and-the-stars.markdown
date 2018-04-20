@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Songs for Ezekiel"
-date:   2018-04-18 09:11:00 -0700
+title:  "Azaria and the Stars"
+date:   2018-04-20 08:32:00 -0700
 categories: childrensstories
 ---
 Originally posted on: [Dad-a-base](http://dadabase.jandcb.com).
