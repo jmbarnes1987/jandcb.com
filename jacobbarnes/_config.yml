@@ -19,8 +19,11 @@ description: >-
     I write things here. This is my blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jacobbarnes.jandcb.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+
+# Github Config
+github_username:  jmbarnes1987
+github_repo: jandcb.com
 
 # Build settings
 markdown: kramdown
@@ -28,6 +31,9 @@ markdown: kramdown
 theme: jekyll-athena
 plugins:
   - jekyll-feed
+
+# misc variables
+my_name: Jacob barnes
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

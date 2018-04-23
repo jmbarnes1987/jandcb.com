@@ -19,7 +19,10 @@ description: >-
     A parenting blog for green and veteran fathers alike; Moms too ;)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dadabase.jandcb.com" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  jekyll
+
+# Github Config
+github_username:  jmbarnes1987
+github_repo: jandcb.com
 
 # Build settings
 markdown: kramdown
@@ -27,6 +30,9 @@ markdown: kramdown
 theme: jekyll-athena
 plugins:
   - jekyll-feed
+
+# misc variables
+my_name: Jacob barnes
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
