@@ -6,74 +6,28 @@ categories: childrensstories
 ---
 Originally posted on: [Dad-a-base](http://dadabase.jandcb.com).
 
-Once there was a little boy named Ezekiel.
+Before our planet formed, before our sun was born, there in the infinite darkness of space, lived Azaria.
 
-Before Ezekiel was born, his parents planted a tree deep in the big forest next to town to celebrate their marriage.
+Azaria couldn't remember how long she'd been there, but she knew it was a very, very long time.
 
-As Ezekiel grew so did the tree.
+In the darkness of space it was very, very lonely and very, very cold and Azaria was tired of being so lonely and cold.
 
-And every year Ezekiel's parents took him to see the tree deep in the big forest.
+Only, Azaria couldn't see in the darkness and no matter how far and wide she searched, she couldn't find anyone else in the infinite darkness of space.
 
-When Ezekiel's family took him to see the tree, they always had picnics.
+Saddened, tired, and cold, Azaria began to cry. 
 
-And the tree gave them shade.
+As Azaria's first tear fell, beautiful light began piercing the darkness. As her tears continued to fall, Azaria could suddenly feel their warmth. There, suspended in space, were the first of the stars we see in our sky and the last tears of Azaria's sadness.
 
-Some years when Ezekiel's parents took him to see the tree, it rained.
+After a moment, Azaria noticed light from tears falling very, very far away and Azaria knew she wasn't alone.
 
-And the tree gave them shelter.
+Racing toward the light, Azaria began to cry again, only this time, she was crying tears of joy. 
 
-Other years when Ezekiel's parents took him to see the tree, it was cold.
+When she got close, Azaria saw a little boy and knew he must have been very, very lonely and very, very cold, just like she was. Only, he didn't look lonely and cold anymore and his tears didn't look like tears of sadness. 
 
-And the tree shed its leaves to give them sun.
+Azaria knew he must have seen the light and felt the warmth of her first tears, her tears of sadness. And just like when she'd seen his tears and felt their warmth and knew she wasn't alone, he cried tears of joy.
 
-One year, right before Ezekiel was leaving for college, Ezekiel's parents took him to see the tree deep in the big forest and Ezekiel asked his parents, "why do you like this tree?"
+Unsure of what to do, Azaria waved at the little boy and started slowly moving closer. Smiling, the little boy wiped the tears of joy from his eyes and began to run, waving his hand, inviting her to play.
 
-And Ezekiel's parents said, "Because it's grown with our family and we have many great memories here."
+Azaria and the boy chased one another to every corner of the cosmos, crying tears of joy at the happiness they'd found, and filling our night's sky with every star we see.
 
-Then Ezekiel's parents asked, "Why do you like this tree, Ezekiel?"
-
-And Ezekiel said, "Because it's given us shade when it's warm. And it's given us shelter when it stormed. And it's given us sun when it's cold."
-
-"But most of all," said Ezekiel, "because it's given us songs."
-
-Surprised, Ezekiel's parents asked, "Songs?"
-
-"Yes", said Ezekiel, "it always gives us songs."
-
-"What songs are those, Ezekiel," asked his parents?
-
-And so Ezekiel began:
-
-"The song of the blue Jays."
-
-"And the song of the bees."
-
-"The song of the breeze blowing through leaves."
-
-"The song of the squirrels."
-
-"And the song of the opossum."
-
-"The song of flowers as the buds start to blossom."
-
-"The song of cicadas, hissing and buzzing."
-
-"And the song of the Cardinal, soft, sweet, and lovely."
-
-"The song of the bats, with their high-pitched squeak."
-
-"And the song of the owls, low toned and deep."
-
-"And many other songs, more than I can tell."
-
-"Songs as loud as thunder."
-
-"And songs as silent as snails."
-
-"All of these songs and many more too."
-
-"It's the Chorus of the Forest."
-
-"And with each visit, a symphony, new."
-
-As if hearing the sounds of the forest for the first time, Ezekiel's parents stood silent for a moment before saying, "We've never before heard the songs of the forest, but surely as the sun rises, we'll never miss the symphony again."
+Playing for what seemed an eternity, the two stopped to look around at what was once cold, endless darkness. Everywhere, in every direction across the infinite expanse of space, was their tears of joy and the light and the warmth of the stars. 
