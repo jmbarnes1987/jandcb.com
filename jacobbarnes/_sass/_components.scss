@@ -31,6 +31,7 @@ code {
 
   ul, ol {
     padding-left: 40px;
+    font-size: $prose-ul-font-size;
   }
 
   li {
@@ -59,7 +60,7 @@ code {
     font-style: italic;
 
     p {
-      font-size: 24px;
+      font-size: $blockquote-sm-font-size;
     }
 
     @media (min-width: $breakpoint-lg) {
@@ -68,7 +69,7 @@ code {
       max-width: (11 / 10 * 100%);
 
       p {
-        font-size: 32px;
+        font-size: $blockquote-lg-font-size;
       }
 
     }
