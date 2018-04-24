@@ -31,7 +31,14 @@
           </div>
 
         </div>
+
       </header>
+
+      <!-- <div class="autoplay"> 
+        <div><h2>1</h2></div>
+        <div><h2>2</h2></div>
+        <div><h2>3</h2></div>
+      </div> -->
 
       <div class="container mx-auto px-2 py-2">
         {% for post in site.posts %}
@@ -43,6 +50,18 @@
 
     {% include footer.html %}
 
+    <!-- Slick Carousel-->
+    <!-- <script type="text/javascript" src="{{ "/assets/javascript/slick.min.js" | prepend: full_base_url }}"></script>
+    <script>
+        $(document).ready(function(){
+            $('.autoplay').slick({
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                autoplay: true,
+                autoplaySpeed: 3000
+            });
+        });
+    </script> -->
   </body>
 
 </html>
