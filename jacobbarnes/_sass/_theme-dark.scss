@@ -7,9 +7,10 @@ $gray: #A09992;
 $gray-light: #D7D5D1;
 $white: #fff;
 $burgundy: #B54545;
+$background-gray: rgba(0, 0, 0, 0.137);
 
 // Config
-$color-background: $white !default;
+$color-background: $background-gray !default;
 $color-foreground: $black !default;
 $color-title: $black !default;
 $color-body-text: $black !default;
