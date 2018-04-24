@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
   <head>
     <meta charset="utf-8">
@@ -8,23 +8,28 @@
     <meta name="author" content="">
 
     <title>test</title>
-
-    <link rel="stylesheet" href="{{ "/assets/slick.css" | prepend: full_base_url }}"/>
-    <link rel="stylesheet" href="{{ "/assets/slick-theme.css" | prepend: full_base_url }}"/>
+    
+        <!-- Slick Carousel-->
+    <link rel="stylesheet" type="text/css" href="../assets/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="../assets/slick-theme.css"/>
   </head>
 
   <body>
 
 
 
-    <div class="autoplay"></div>
+    <div class="autoplay">
       <div><h1>Hello World</h1></div>
       <div><h1>What's up World</h1></div>
       <div><h1>Yo World</h1></div>
       <div><h1>Hi World</h1></div>
     </div>
 
-    <script type="text/javascript" src="{{ "/assets/javascript/slick.min.js" | prepend: full_base_url }}"></script>
+    <script src="../assets/javascript/jquery.min.js"></script>
+
+        <!-- Slick Carousel-->
+        <script type="text/javascript" src="../assets/javascript/slick.min.js"></script>
+				
     <script>
         $(document).ready(function(){
             $('.autoplay').slick({
@@ -38,3 +43,12 @@
   </body>
 
 </html>
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> -->
+    <!-- <script type="text/javascript" src="{{ "/assets/javascript/jquery.js" | prepend: full_base_url }}"></script>
+    <script type="text/javascript" src="{{ "/assets/javascript/jquery.min.js" | prepend: full_base_url }}"></script> -->
+    <!-- <script type="text/javascript" src="{{ "/assets/javascript/slick.min.js" | prepend: full_base_url }}"></script> -->
+        <!-- <link rel="canonical" href="http://jacobbarnes.jandcb.com/"> -->
+        <!-- {% assign user_url = site.url | append: site.baseurl %}
+        {% assign full_base_url = user_url | default: site.github.url %} -->
+        <!-- <link rel="stylesheet" href="{{ "/assets/slick.css" | prepend: full_base_url }}"/>
+        <link rel="stylesheet" href="{{ "/assets/slick-theme.css" | prepend: full_base_url }}"/> -->
