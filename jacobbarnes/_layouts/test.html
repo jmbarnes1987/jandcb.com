@@ -17,74 +17,71 @@
 
   <body>
     <div>      
-    <header class="test-header">
-        <div class="right-lg absolute-lg right-0 top-0">
-            <ul class="mt-1 mt-lg-2 mr-2 mr-lg-3">
-                <li class="inline-block block-lg text-right ml-1 ml-lg-0">
-                <a class="italic h4 bold no-underline" href="{{ site.baseurl }}/">
-                    <!-- {{ site.title }} -->
-                    Home
-                </a>
-                </li>
-                {% for my_page in site.pages %}
-                {% if my_page.title %}
-                <li class="inline-block block-lg text-right ml-1 ml-lg-0">
-                    <a class="italic no-underline h4" href="{{ my_page.url | prepend: site.baseurl }}">
-                    {{ my_page.title }}
+        <header class="test-header clearfix">
+            <div class="right absolute-lg right-0 top-0">
+                <ul class="mt-1 mt-lg-2 mr-2 mr-lg-3">
+                    <li class="inline-block block-lg text-right ml-1 ml-lg-0">
+                    <a class="italic h4 bold no-underline" href="{{ site.baseurl }}/">
+                        <!-- {{ site.title }} -->
+                        Home
                     </a>
-                </li>
-                {% endif %}
-                {% endfor %}
-            </ul>
-        </div>
-        <div class="container">
-        <div class="autoplay">
-            <div class="test-message container mx-auto px-2 mt-4 mb-2 clearfix header-text" style="background-image: url(../assets/img/index_fatherandson_2.jpg); background-size: cover;">
-                <h1 class="h0 inline-block py-2 mt-4 header-title">{{ site.title }} 1</h1>
-        
-                <div class="clearfix mb-4 py-1">
-                    <p class="h4 lh-condensed font-smoothing">{{ site.description }} 1</p>
-                    <div class="col-1 sm-width-full border-top-thick">
-                    </div>
-                </div>        
+                    </li>
+                    {% for my_page in site.pages %}
+                    {% if my_page.title %}
+                    <li class="inline-block block-lg text-right ml-1 ml-lg-0">
+                        <a class="italic no-underline h4" href="{{ my_page.url | prepend: site.baseurl }}">
+                        {{ my_page.title }}
+                        </a>
+                    </li>
+                    {% endif %}
+                    {% endfor %}
+                </ul>
             </div>
+            <div class="container">
+                <div class="autoplay">
+                    <div class="test-message container mx-auto px-2 mt-4 mb-2 clearfix header-text" style="background-image: url(../assets/img/index_fatherandson_2.jpg); background-size: cover;">
+                        <h1 class="h0 inline-block py-2 mt-4 header-title">{{ site.title }} 1</h1>
+                
+                        <div class="clearfix mb-4 py-1">
+                            <p class="h4 lh-condensed font-smoothing">{{ site.description }} 1</p>
+                            <div class="col-1 sm-width-full border-top-thick">
+                            </div>
+                        </div>        
+                    </div>
 
-            <div class="test-message container mx-auto px-2 mt-4 mb-2 clearfix header-text" style="background-image: url(../assets/img/index_boyandhisdog.jpg); background-size: cover;">
-                <h1 class="h0 inline-block py-2 mt-4 header-title">{{ site.title }} 2</h1>
-        
-                <div class="clearfix mb-4 py-1">
-                    <p class="h4 lh-condensed font-smoothing">{{ site.description }} 2</p>
-                    <div class="col-1 sm-width-full border-top-thick">
+                    <div class="test-message container mx-auto px-2 mt-4 mb-2 clearfix header-text" style="background-image: url(../assets/img/index_boyandhisdog.jpg); background-size: cover;">
+                        <h1 class="h0 inline-block py-2 mt-4 header-title">{{ site.title }} 2</h1>
+                
+                        <div class="clearfix mb-4 py-1">
+                            <p class="h4 lh-condensed font-smoothing">{{ site.description }} 2</p>
+                            <div class="col-1 sm-width-full border-top-thick">
+                            </div>
+                        </div>            
+                    </div>
+
+                    <div class="test-message container mx-auto px-2 mt-4 mb-2 clearfix header-text" style="background-image: url(../assets/img/index_zeke.jpg); background-size: cover;">
+                        <h1 class="h0 inline-block py-2 mt-4 header-title">{{ site.title }} 3</h1>
+                
+                        <div class="clearfix mb-4 py-1">
+                            <p class="h4 lh-condensed font-smoothing">{{ site.description }} 3</p>
+                            <div class="col-1 sm-width-full border-top-thick">
+                            </div>
+                        </div>        
+                    </div>
+
+                    <div class="test-message container mx-auto px-2 mt-4 mb-2 clearfix header-text" style="background-image: url(../assets/img/index_momandson.jpg); background-size: cover;">
+                        <h1 class="h0 inline-block py-2 mt-4 header-title">{{ site.title }}</h1>
+                
+                        <div class="clearfix mb-4 py-1">
+                            <p class="h4 lh-condensed font-smoothing">{{ site.description }}</p>
+                            <div class="col-1 sm-width-full border-top-thick">
+                            </div>
+                        </div>            
                     </div>
                 </div>
-        
             </div>
-
-            <div class="test-message container mx-auto px-2 mt-4 mb-2 clearfix header-text" style="background-image: url(../assets/img/index_zeke.jpg); background-size: cover;">
-                <h1 class="h0 inline-block py-2 mt-4 header-title">{{ site.title }} 3</h1>
-        
-                <div class="clearfix mb-4 py-1">
-                    <p class="h4 lh-condensed font-smoothing">{{ site.description }} 3</p>
-                    <div class="col-1 sm-width-full border-top-thick">
-                    </div>
-                </div>
-        
-            </div>
-
-            <div class="test-message container mx-auto px-2 mt-4 mb-2 clearfix header-text" style="background-image: url(../assets/img/index_momandson.jpg); background-size: cover;">
-                <h1 class="h0 inline-block py-2 mt-4 header-title">{{ site.title }}</h1>
-        
-                <div class="clearfix mb-4 py-1">
-                    <p class="h4 lh-condensed font-smoothing">{{ site.description }}</p>
-                    <div class="col-1 sm-width-full border-top-thick">
-                    </div>
-                </div>
-            
-            </div>
-        </div>
-        </div>
-    </header>
-</div>
+        </header>
+    </div>
     <script src="../assets/javascript/jquery.min.js"></script>
 
     <!-- Slick Carousel-->

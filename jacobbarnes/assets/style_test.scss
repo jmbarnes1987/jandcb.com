@@ -5,7 +5,7 @@
 
 // Import partials from `sass_dir` and set theme here
 @import
-        "theme-{{ site.theme_color | default: "dark" }}.scss"
+        "theme-{{ site.theme_color | default: "light" }}.scss"
         // "theme-{{ site.theme_fonts | default: "system" }}.scss"
 ;
 body, html {
@@ -16,7 +16,6 @@ body, html {
         /* padding-top: 50px;
         padding-bottom: 50px; */
         text-align: center;
-        color: #f8f8f8;
         /* background: url(../img/intro-bg.jpg) no-repeat center center; */
         /* background-size: cover; */
         /* width: 80%;
